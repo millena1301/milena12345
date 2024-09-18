@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Como Funciona uma AK-47</title>
+        <meta charset="UTF-8">
+        <meta name="Viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="styles.css">
+        </head>
+        <body>
+            <h1>Com a assinatura premium, vc pode aproveitar nosso conteúdo exclusivo por apenas um preço único.</h1>
+
+            <section>
+                <div><h1>Como funcionar uma AK-47</h1>
+                    <p>#Armas</p>
+                    <p>#Armas de fogo</p>
+                    <p>#Armas legalizadas</p>
+                </div>
+                <div>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/_eQLFVpOYm4?si=GOrpvNwcBkAR_aGn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
+                </div>
+            </section>
+        </body>
+</html>
